@@ -1,0 +1,73 @@
+{
+	"video-url": "https://music.youtube.com/watch?v=n61ULEU7CO0",
+
+	"classes": {
+		"Monday": {
+			"8:15 - 9:00": "Dance",
+			"9:00 - 9:35": "English Lang.",
+			"9:35 - 10:10": "Economics/Computer Science/PE",
+			"10:10 - 10:25": "Recess",
+			"10:25 - 11:00": "Second Lang.",
+			"11:00 - 11:35": "Physics/GP/English Lit.",
+			"11:35 - 12:10": "Chemistry/Business St./History",
+			"12:10 - 12:45": "Math/Additional Math",
+			"12:45 - 13:05": "Recess",
+			"13:05 - 13:40": "English Lang.",
+			"13:40 - 14:05": "Biology/Accounting/Art & Design"
+		},
+		"Tuesday": {
+			"8:15 - 9:00": "Biology/Accounting/Art & Design",
+			"9:00 - 9:35": "Counselling",
+			"9:35 - 10:10": "Physics/GP/English Lit.",
+			"10:10 - 10:25": "Recess",
+			"10:25 - 11:00": "Chemistry/Business St./History",
+			"11:00 - 11:35": "Music",
+			"11:35 - 12:10": "Economics/Computer Science/PE",
+			"12:10 - 12:45": "Class Teacher Period",
+			"12:45 - 13:05": "Recess",
+			"13:05 - 13:40": "Math/Additional Math",
+			"13:40 - 14:05": "Second Lang."
+		},
+		"Wednesday": {
+			"8:15 - 9:00": "Economics/Computer Science/PE",
+			"9:00 - 9:35": "English Lang.",
+			"9:35 - 10:10": "Math/Additional Math",
+			"10:10 - 10:25": "Recess",
+			"10:25 - 11:00": "Chemistry/Business St./History",
+			"11:00 - 11:35": "Second Lang.",
+			"11:35 - 12:10": "Physics/GP/English Lit.",
+			"12:10 - 12:45": "Physics/GP/English Lit.",
+			"12:45 - 13:05": "Recess",
+			"13:05 - 13:40": "Recess/Games",
+			"13:40 - 14:05": "Recess/Games"
+		},
+		"Thursday": {
+			"8:15 - 9:00": "English Lang.",
+			"9:00 - 9:35": "Second Lang.",
+			"9:35 - 10:10": "Biology/Accounting/Art & Design",
+			"10:10 - 10:25": "Recess",
+			"10:25 - 11:00": "Math/Additional Math",
+			"11:00 - 11:35": "Math/Additional Math",
+			"11:35 - 12:10": "English Lang.",
+			"12:10 - 12:45": "Economics/Computer Science/PE",
+			"12:45 - 13:05": "Recess",
+			"13:05 - 13:40": "Chemistry/Business St./History",
+			"13:40 - 14:05": "Library"
+		},
+		"Friday": {
+			"8:15 - 9:00": "Physics/GP/English Lit.",
+			"9:00 - 9:35": "Math/Additional Math",
+			"9:35 - 10:10": "English Lang.",
+			"10:10 - 10:25": "Recess",
+			"10:25 - 11:00": "Economics/Computer Science/PE",
+			"11:00 - 11:35": "Math/Additional Math",
+			"11:35 - 12:10": "Second Lang.",
+			"12:10 - 12:45": "Chemistry/Business St./History",
+			"12:45 - 13:05": "Recess",
+			"13:05 - 13:40": "Biology/Accounting/Art & Design",
+			"13:40 - 14:05": "Biology/Accounting/Art & Design"
+		},
+		"Saturday": {},
+		"Sunday": {}
+	}
+}
