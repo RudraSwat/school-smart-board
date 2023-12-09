@@ -1,0 +1,14 @@
+{
+    "name": "school-smart-board",
+    "version": "1.0.0",
+    "description": "A fullscreen application for an intuitive school projector",
+    "main": "main.js",
+    "author": "Rudra Saraswat",
+    "license": "MIT",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDependencies": {
+        "electron": "^28.0.0"
+    }
+}
